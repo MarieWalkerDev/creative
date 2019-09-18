@@ -36,7 +36,7 @@ class Directory extends React.Component {
         },
         {
           title: 'fan art',
-          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          imageUrl: 'https://pbs.twimg.com/profile_images/891036695902040065/7Riewjce.jpg',
           size: 'large',
           id: 5,
           linkUrl: '',
